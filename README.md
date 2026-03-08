@@ -1,7 +1,7 @@
 <img width="1982" height="668" alt="image" src="https://github.com/user-attachments/assets/248cf389-6155-4756-bdf8-de4e70edee82" />
 
-  <h1 align="center">My GitHub Profile</h1>
-# "hello world.i'm Shravan!👋🏻 "
+  <h1 align="center">About Me</h1>
+
 
 
 
