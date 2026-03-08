@@ -2,7 +2,25 @@
 
   <h1 align="left">About Me</h1>
 
+<table>
+<tr>
+<td>
 
+<img src="https://your-image-link.png" width="200">
+
+</td>
+<td>
+
+### About Me
+
+- 🎓 Engineering Student  
+- 💻 Learning Java  
+- 🚀 Interested in Programming  
+- 🌱 Currently learning DSA  
+
+</td>
+</tr>
+</table>
 
 
 ### I am currently an engineering student.
