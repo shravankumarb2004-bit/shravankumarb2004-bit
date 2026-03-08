@@ -27,7 +27,11 @@ I build systems that bridge the gap between **software** and **physical reality*
 <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
   <img width="100" height="100" alt="Instagram" src="https://github.com/user-attachments/assets/40577567-b75e-4e39-bb3e-895f4e93a611">
 </a>
- [LinkedIn](Your Link)
+<img width="100" height="100" alt="Instagram" src="https://maxst.icons8.com/vue-static/icon/svg/download.svg">
+</a>
+color style gmail logo icon
+Gmail Logo
+https://maxst.icons8.com/vue-static/icon/svg/download.svg
 - 📧 [Email](Your Email)
 - 🌐 [Portfolio/Blog](Your Link)
 
