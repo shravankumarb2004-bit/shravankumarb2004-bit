@@ -2,21 +2,20 @@
 
   <h1 align="left">About Me</h1>
 
-<table>
+<<table>
 <tr>
-<td>
+<td width="60%">
 
-<img src="https://your-image-link.png" width="200">
+### 👨‍💻 About Me
+- 🌱 Currently learning **Java**
+- 💻 Interested in **Programming**
+- 🚀 Building **GitHub Projects**
 
 </td>
-<td>
 
-### About Me
+<td width="40%">
 
-- 🎓 Engineering Student  
-- 💻 Learning Java  
-- 🚀 Interested in Programming  
-- 🌱 Currently learning DSA  
+  ![git image](https://github.com/user-attachments/assets/5e0bbe2e-3303-467c-a51b-73bda867938d)
 
 </td>
 </tr>
