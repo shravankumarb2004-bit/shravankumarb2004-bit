@@ -3,7 +3,9 @@
   <h1 align="left">About Me</h1>
 
 
-<img align="right" width="300" src="https://github.com/user-attachments/assets/5e0bbe2e-3303-467c-a51b-73bda867938d">
+<img align="right" width="300" src="https://github.com/user-attachments/assets/09ba7b32-8683-4aaa-8b37-b7d958fb75e6">
+![image 1](https://github.com/user-attachments/assets/09ba7b32-8683-4aaa-8b37-b7d958fb75e6)
+
 
 ### 👨‍💻 About Me
 - Engineering Student  
