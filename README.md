@@ -2,27 +2,33 @@
 
 # Hi, I'm Shravan! 👋
 
-I'm an **Engineering Student** at [Your University], passionate about solving problems through code and building [mention 1-2 interests, e.g., sustainable hardware or scalable web apps].
+# ⚙️ [Your Name] | Engineering @ [University]
 
-### 🛠 Tech Stack & Tools
+> "Engineers like to solve problems. If there are no problems handily available, they will create their own problems."
 
-* **Languages:** Python, C++, Java, JavaScript
-* **Tools & Frameworks:** Git, Docker, React, ROS (Robot Operating System)
-* **Engineering Software:** MATLAB, AutoCAD, SolidWorks
-* **Currently Learning:** [e.g., Cloud Computing / Machine Learning / Embedded Systems]
+### 🔧 The Workbench
+I build systems that bridge the gap between **software** and **physical reality**.
 
----
-
-### 📈 What I'm Working On
-
-* 🔭 **Project Alpha:** Building a [brief description of your main project].
-* 🌱 **Learning:** Diving deep into [Specific Topic] to improve my [Specific Skill].
-* 📫 **How to reach me:** [Your Email] or [LinkedIn Link]
+* **Logic:** `Python` • `C++` • `Embedded C` • `MATLAB`
+* **Hardware:** `Arduino` • `Raspberry Pi` • `PCB Design`
+* **CAD/Sim:** `SolidWorks` • `AutoCAD` • `LTSpice`
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Current Builds & Lab Work
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Project Name]** | High-level summary of what it solves. | `Python` `OpenCV` |
+| **[Project Name]** | A hardware/software integration project. | `ESP32` `IoT` |
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical)
+---
 
+### ⚡ Find Me At
+- 💼 [LinkedIn](Your Link)
+- 📧 [Email](Your Email)
+- 🌐 [Portfolio/Blog](Your Link)
+
+---
+
+### 📉 Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight)
