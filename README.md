@@ -3,22 +3,12 @@
   <h1 align="left">About Me</h1>
 
 
-<tr>
-<td width="60%">
+<img align="right" width="200" src="https://github.com/user-attachments/assets/5e0bbe2e-3303-467c-a51b-73bda867938d">
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **Java**
-- 💻 Interested in **Programming**
-- 🚀 Building **GitHub Projects**
-
-</td>
-
-<td width="40%">
-
-  ![git image] align="right" (https://github.com/user-attachments/assets/5e0bbe2e-3303-467c-a51b-73bda867938d)
-
-</td>
-</tr>
+- Engineering Student  
+- Learning Java  
+- Interested in Programming  
 
 
 
