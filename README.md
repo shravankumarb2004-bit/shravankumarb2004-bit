@@ -1,11 +1,11 @@
 <img width="1982" height="668" alt="image" src="https://github.com/user-attachments/assets/248cf389-6155-4756-bdf8-de4e70edee82" />
 
-  <h1 align="center">About Me</h1><br>
+  <h1 align="left">About Me</h1>
 
 
 
 
-### I am currently an engineering student.<br><br><br><br>
+### I am currently an engineering student.
 
 ### 🔧 The Workbench
 I build systems that bridge the gap between **software** and **physical reality**.
