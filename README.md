@@ -2,7 +2,7 @@
 
   <h1 align="left">About Me</h1>
 
-<<table>
+
 <tr>
 <td width="60%">
 
@@ -19,7 +19,7 @@
 
 </td>
 </tr>
-</table>
+
 
 
 ### I am currently an engineering student.
