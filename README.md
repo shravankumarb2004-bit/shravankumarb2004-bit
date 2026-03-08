@@ -1,7 +1,7 @@
 ![programmer_text_2](https://github.com/user-attachments/assets/abd66945-1e11-4fd4-ae0c-d083433249e8)
-# "hello world.i'm Shravan! "
-> "Engineers like to solve problems. If there are no problems handily available, they will create their own problems."
-## The Engineering Student
+# "hello world.i'm Shravan!👋🏻 "
+### I am currently an engineering student.
+
 ### 🔧 The Workbench
 I build systems that bridge the gap between **software** and **physical reality**.
 
