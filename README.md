@@ -1,4 +1,3 @@
-![programmer_text_2](https://github.com/user-attachments/assets/abd66945-1e11-4fd4-ae0c-d083433249e8)
 <img width="1982" height="668" alt="image" src="https://github.com/user-attachments/assets/248cf389-6155-4756-bdf8-de4e70edee82" />
 
 # "hello world.i'm Shravan!👋🏻 "
