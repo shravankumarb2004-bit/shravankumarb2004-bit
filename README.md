@@ -15,7 +15,7 @@
 
 <td width="40%">
 
-  ![git image](https://github.com/user-attachments/assets/5e0bbe2e-3303-467c-a51b-73bda867938d)
+  ![git image] align="right" (https://github.com/user-attachments/assets/5e0bbe2e-3303-467c-a51b-73bda867938d)
 
 </td>
 </tr>
