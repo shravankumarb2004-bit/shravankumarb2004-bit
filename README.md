@@ -22,7 +22,8 @@ I build systems that bridge the gap between **software** and **physical reality*
 ---
 
 ### ⚡ Find Me At
-- <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/bcf7e98b-da84-41d6-a79d-a418fe923de0" />
+<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/40577567-b75e-4e39-bb3e-895f4e93a611" />
+
  [LinkedIn](Your Link)
 - 📧 [Email](Your Email)
 - 🌐 [Portfolio/Blog](Your Link)
