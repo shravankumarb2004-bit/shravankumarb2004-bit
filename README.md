@@ -1,3 +1,4 @@
+![programmer_text_2](https://github.com/user-attachments/assets/abd66945-1e11-4fd4-ae0c-d083433249e8)
 
 <img src="![Uploading programmer_text_2.jpg…]()
 " width="100%">
