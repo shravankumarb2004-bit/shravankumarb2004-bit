@@ -5,7 +5,7 @@
 
 <img align="right" width="300" src="https://github.com/user-attachments/assets/09ba7b32-8683-4aaa-8b37-b7d958fb75e6">
 
-## 👋 About Me
+
 
 Hi, I'm an Engineering student who is passionate about learning programming and improving my problem-solving skills.
 
