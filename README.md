@@ -26,13 +26,7 @@ Hi, I'm an Engineering student who is passionate about learning programming and 
 - Build useful projects  
 - Contribute to open-source in the future
 
-### 🛠️ Current Builds & Lab Work
-<!--| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[Project Name]** | High-level summary of what it solves. | `Python` `OpenCV` |
-| **[Project Name]** | A hardware/software integration project. | `ESP32` `IoT` |
--->
----
+
 <img width="160" height="160" alt="download" src="https://github.com/user-attachments/assets/17ed83bc-d5fa-435f-9e0f-77ac89636f60" />
 <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/d26c957b-118b-4bdd-970f-1ef344fbb7c3" />
 
