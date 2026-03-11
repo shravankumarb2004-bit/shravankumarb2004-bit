@@ -1,6 +1,6 @@
 <img width="1982" height="668" alt="image" src="https://github.com/user-attachments/assets/248cf389-6155-4756-bdf8-de4e70edee82" />
 
-  <h1 align="left">About Me</h1>
+ # <h1 align="left">About Me</h1>
 
 
 <img align="right" width="300" src="https://github.com/user-attachments/assets/09ba7b32-8683-4aaa-8b37-b7d958fb75e6">
