@@ -5,13 +5,26 @@
 
 <img align="right" width="300" src="https://github.com/user-attachments/assets/09ba7b32-8683-4aaa-8b37-b7d958fb75e6">
 
+## 👋 About Me
 
+Hi, I'm an Engineering student who is passionate about learning programming and improving my problem-solving skills.
 
-### 👨‍💻 About Me
-- Engineering Student  
-- Learning Java  
-- Interested in Programming  
+- 💻 Currently learning Java and Data Structures
+- 📚 Practicing pattern programs and logic building
+- 🚀 Interested in becoming a Software Engineer
+- 🔧 I like building simple programs and experimenting with code
+- 🌱 Always learning and improving step by step
 
+### 🛠 Skills
+- Java  
+- C / C++  
+- Basic HTML  
+- Git & GitHub
+
+### 📌 Goals
+- Improve programming logic  
+- Build useful projects  
+- Contribute to open-source in the future
 
 
 ### I am currently an engineering student.
