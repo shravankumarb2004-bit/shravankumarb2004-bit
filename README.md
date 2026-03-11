@@ -26,18 +26,6 @@ Hi, I'm an Engineering student who is passionate about learning programming and 
 - Build useful projects  
 - Contribute to open-source in the future
 
-
-### I am currently an engineering student.
-
-### 🔧 The Workbench
-I build systems that bridge the gap between **software** and **physical reality**.
-
-* **Logic:** `Python` • `C++` • `Embedded C` • `MATLAB`
-* **Hardware:** `Arduino` • `Raspberry Pi` • `PCB Design`
-* **CAD/Sim:** `SolidWorks` • `AutoCAD` • `LTSpice`
-
----
-
 ### 🛠️ Current Builds & Lab Work
 <!--| Project | Description | Tech |
 | :--- | :--- | :--- |
