@@ -47,5 +47,4 @@ https://maxst.icons8.com/vue-static/icon/svg/download.svg
 Instagram logo
 ---
 
-### 📉 Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight)
+
