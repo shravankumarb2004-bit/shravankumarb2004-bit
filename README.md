@@ -27,8 +27,7 @@ Hi, I'm an Engineering student who is passionate about learning programming and 
 - Contribute to open-source in the future
 
 
-<img width="160" height="160" alt="download" src="https://github.com/user-attachments/assets/17ed83bc-d5fa-435f-9e0f-77ac89636f60" />
-<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/d26c957b-118b-4bdd-970f-1ef344fbb7c3" />
+
 
 
 ### ⚡ Find Me At
