@@ -37,14 +37,6 @@ Hi, I'm an Engineering student who is passionate about learning programming and 
   <img width="100" height="100" alt="Instagram" src="https://github.com/user-attachments/assets/40577567-b75e-4e39-bb3e-895f4e93a611">
 </a>
 <img width="100" height="100" alt="Instagram" src="[https://maxst.icons8.com/vue-static/icon/svg/download.svg](https://icons8.com/icon/37246/gmail)">
-</a>
-color style gmail logo icon
-Gmail Logo
-https://maxst.icons8.com/vue-static/icon/svg/download.svg
-- 📧 [Email](Your Email)
-- 🌐 [Portfolio/Blog](Your Link)
-3d fluency style instagram logo icon
-Instagram logo
----
+
 
 
