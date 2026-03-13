@@ -30,7 +30,7 @@ Hi, I'm an Engineering student who is passionate about learning programming and 
 
 
 
-### ⚡ Find Me At
+## ⚡ Find Me At
 
 <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
   <img width="100" height="100" alt="Instagram" src="https://github.com/user-attachments/assets/40577567-b75e-4e39-bb3e-895f4e93a611">
