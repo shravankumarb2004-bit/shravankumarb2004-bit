@@ -15,13 +15,13 @@ Hi, I'm an Engineering student who is passionate about learning programming and 
 - 🔧 I like building simple programs and experimenting with code
 - 🌱 Always learning and improving step by step
 
-### 🛠 Skills
+## 🛠 Skills
 - Java  
 - C / C++  
 - Basic HTML  
 - Git & GitHub
 
-### 📌 Goals
+## 📌 Goals
 - Improve programming logic  
 - Build useful projects  
 - Contribute to open-source in the future
