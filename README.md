@@ -1,9 +1,5 @@
 
 
-
-</a>
-<img width="100" height="100" alt="Instagram" src="[https://maxst.icons8.com/vue-static/icon/svg/download.svg](https://icons8.com/icon/37246/gmail)">
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20I'm%20Shravan%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descSize=18" width="100%"/>
