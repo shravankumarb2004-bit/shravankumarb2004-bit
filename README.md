@@ -1,13 +1,6 @@
 
 
 
-
-
-
-## ⚡ Find Me At
-
-<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-  <img width="100" height="100" alt="Instagram" src="https://github.com/user-attachments/assets/40577567-b75e-4e39-bb3e-895f4e93a611">
 </a>
 <img width="100" height="100" alt="Instagram" src="[https://maxst.icons8.com/vue-static/icon/svg/download.svg](https://icons8.com/icon/37246/gmail)">
 
