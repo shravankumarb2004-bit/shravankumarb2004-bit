@@ -158,6 +158,6 @@ class WhoIsShravan(Scene):
 
 ⭐ If you like my work, consider starring my repos! It means a lot 🙏
 
-**shravankumarb2004-bit** • Made with ❤️ in India
+**shravankumarb2004-bit** • Made with ❤️ 
 
 </div>
