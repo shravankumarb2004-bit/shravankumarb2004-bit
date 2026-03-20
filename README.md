@@ -153,7 +153,7 @@ class WhoIsShravan(Scene):
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:7c3aed,100:00D9FF&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 ⭐ If you like my work, consider starring my repos! It means a lot 🙏
 
