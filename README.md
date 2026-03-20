@@ -13,7 +13,7 @@ Hi, I'm an Engineering student who is passionate about learning programming and 
 - 📚 Practicing pattern programs and logic building
 - 🚀 Interested in becoming a Software Engineer
 - 🔧 I like building simple programs and experimenting with code
-- 🌱 Always learning and improving step by step
+- 🌱 Always learning and improving step by step </br>
 
 ## 🛠 Skills
 - Java  
